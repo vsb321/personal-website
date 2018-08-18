@@ -1,2 +1,2 @@
-# personal-website
+# vijaybaliga.com
 vijaybaliga.com
